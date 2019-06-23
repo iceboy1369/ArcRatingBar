@@ -29,6 +29,6 @@ Step 3. Use like this in xml layout...
 Step 4. Set value...
  
 	RatingBar ratingBar = findViewById(R.id.ratingBar);
-    ratingBar.setStar= 2;
+    ratingBar.setRate(2);
    
         
