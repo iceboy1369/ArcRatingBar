@@ -8,7 +8,7 @@
 
     <ir.icegroup.curvedratingbar.RatingBar
         android:id="@+id/ratingBar"
-        android:layout_width="40dp"
+        android:layout_width="35dp"
         android:layout_height="40dp"
         app:star="3"/>
 
