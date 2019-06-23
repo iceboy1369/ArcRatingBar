@@ -19,12 +19,16 @@ Step 2. Add the dependency
   
   
 Step 3. Use like this in xml layout...
-  
-  <ir.icegroup.curvedratingbar.RatingBar
-        android:layout_width="80dp"
-        android:layout_height="50dp"
-        app:star="2"/>
+ 
+	<ir.icegroup.curvedratingbar.RatingBar
+        	android:layout_width="80dp"
+       	android:layout_height="50dp"
+        	app:star="2"/>
+   
         
 Step 4. Set value...
-    RatingBar ratingBar = findViewById(R.id.ratingBar);
+ 
+	RatingBar ratingBar = findViewById(R.id.ratingBar);
     ratingBar.setStar= 2;
+   
+        
