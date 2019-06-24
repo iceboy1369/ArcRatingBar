@@ -1,4 +1,5 @@
-# ArcRatingBar
+# ArcRatingBar  
+<img src="https://github.com/iceboy1369/ArcRatingBar/blob/master/Capture.JPG">
 
 ArcRatingBar is very simple library that can just show 5 star just to show as curved mode.
 
