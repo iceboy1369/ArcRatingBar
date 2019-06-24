@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         ratingBar = findViewById(R.id.ratingBar);
-        ratingBar.setRate(2);
+        ratingBar.setStar(2);
     }
 }

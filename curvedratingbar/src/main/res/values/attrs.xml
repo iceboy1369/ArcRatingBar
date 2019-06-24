@@ -2,6 +2,7 @@
 <resources>
     <declare-styleable name="RatingBar">
         <attr name="star" format="integer" />
-        <attr name="size" format="integer"/>
+        <attr name="star_back_color" format="color" />
+        <attr name="star_stroke_color" format="color" />
     </declare-styleable>
 </resources>

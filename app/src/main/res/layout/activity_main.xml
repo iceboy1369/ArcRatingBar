@@ -10,6 +10,8 @@
         android:id="@+id/ratingBar"
         android:layout_width="35dp"
         android:layout_height="40dp"
-        app:star="3"/>
+        app:star_stroke_color="@color/colorPrimary"
+        app:star_back_color="@color/colorAccent"
+        app:star="3" />
 
 </RelativeLayout>
