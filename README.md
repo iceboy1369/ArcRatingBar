@@ -27,7 +27,7 @@ Step 3. Use like this in xml layout...
 	<ir.icegroup.curvedratingbar.RatingBar
 		android:id="@+id/ratingBar"
 		android:layout_width="80dp"
-		android:layout_height="50dp"
+		android:layout_height="80dp"
 		app:star_stroke_color="@color/colorPrimary"
 		app:star_back_color="@color/colorAccent"
 		app:star="3" />
